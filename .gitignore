@@ -1,0 +1,4 @@
+*.swp
+/target
+__pycache__
+.mypy_cache
